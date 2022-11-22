@@ -1,6 +1,5 @@
 CREATE TABLE order(
     id int AUTO_INCREMENT NOT NULL,
-    name VARCHAR(225) NOT NULL,
     total_price FLOAT NOT NULL,
     order_date DATETIME NOT NULL,
     id_customer int,

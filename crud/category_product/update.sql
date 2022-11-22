@@ -1,0 +1,1 @@
+UPDATE category_product SET name = "Musik" WHERE name = "Music";

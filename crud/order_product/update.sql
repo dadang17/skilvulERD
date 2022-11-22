@@ -1,0 +1,1 @@
+UPDATE order_product SET quantity = 0 WHERE quantity = 1000;

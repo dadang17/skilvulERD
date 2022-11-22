@@ -1,0 +1,1 @@
+DELETE FROM order WHERE total_price = 0;

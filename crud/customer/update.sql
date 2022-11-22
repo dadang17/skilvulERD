@@ -1,0 +1,1 @@
+UPDATE customer SET name = "john" WHERE name = "steve";

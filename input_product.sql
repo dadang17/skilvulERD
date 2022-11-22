@@ -1,0 +1,10 @@
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Televisi", 10000000, 10, 1);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Tas Sekolah", 59000, 50, 2);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Kemeja Flanel", 100000, 300, 3);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Celana Panjang", 80000, 100, 4);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Makanan Ringan", 10000, 87, 5);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Sepatu Nike", 200000, 110, 6);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Laptop ROG", 15000000, 70, 7);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Helm Suzuki", 500000, 99, 8);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Kompor", 100000, 128, 9);
+INSERT INTO product (name, price, stock, id_category_product) VALUES("Guitar", 250000, 200, 10);

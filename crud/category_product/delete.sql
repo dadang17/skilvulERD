@@ -1,0 +1,1 @@
+DELETE FROM category_product WHERE name = "Musik";

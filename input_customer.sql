@@ -1,0 +1,10 @@
+INSERT INTO customer (name, address, email) VALUES("mohammad", "palangkaraya", "moh@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("kholil", "jombang", "kholil@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("nawawi", "aceh", "nawawi@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("syafrial", "malang", "syafri@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("maulana", "jakarta", "maulana@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("fairuz", "surabaya", "fairuz@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("ridwan", "surabaya", "ridwan@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("ahmad", "pamekasan", "ahmad@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("thohal", "jember", "thohal@gmail.com");
+INSERT INTO customer (name, address, email) VALUES("steve", "jakarta", "steve@gmail.com");
